@@ -419,7 +419,7 @@ body {
 .header > .container > .header_input {
   width: 500px;
   height: 57px;
-  background: url("../../../img/svg/zoom-question.svg") no-repeat scroll 14px 14px;
+  background: url("../img/svg/zoom-question.svg") no-repeat scroll 14px 14px;
   padding-left: 50px;
   border: none;
   background-color: #f9f9f9;
@@ -460,7 +460,7 @@ body {
 }
 
 .choose:after {
-  content: url("../../../img/svg/arrowMenu.svg");
+  content: url("../img/svg/arrowMenu.svg");
   position: absolute;
   left: 100%;
   top: 5px;
@@ -684,7 +684,7 @@ button:hover {
 }
 
 .carousel-control-next-icon {
-  background-image: url("../../../img/svg/arrow-right.svg");
+  background-image: url("../img/svg/arrow-right.svg");
   background-attachment: fixed;
   background-position: center;
 }
